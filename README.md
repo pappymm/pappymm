@@ -1,7 +1,7 @@
 # Hi there, I'm MUSA 👋
 
 ## About Me
-- 🚀 DevOps Enthusiast with a passion for CI/CD, Infrastructure as Code (IaC), and Cloud Computing
+- 🚀 Web3 and DevOps Enthusiast with a passion for CI/CD, Infrastructure as Code (IaC), Cloud Computing and Blockchain 
 - 🌐 Currently exploring Docker, Kubernetes, Terraform, and AWS
 - 🛠️ Experienced in Linux command line, Shell Scripting, and Python
 
